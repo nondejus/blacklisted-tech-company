@@ -1,1 +1,2 @@
-# blacklisted-tech-companie
+# blacklisted-tech-compagny
+
